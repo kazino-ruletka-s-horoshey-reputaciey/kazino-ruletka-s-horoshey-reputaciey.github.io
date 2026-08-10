@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-s-horoshey-reputaciey.github.io
+Sitemap: https://kazino-ruletka-s-horoshey-reputaciey.github.io/sitemap.xml
